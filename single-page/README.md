@@ -1,1 +1,1 @@
-Single page site
+<img src="final.jpg">
